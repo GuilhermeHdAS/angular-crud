@@ -38,5 +38,9 @@ Para verificar os dados da API, acesse o link: http://localhost:3001/products
 
 Para iniciar minha App, dentro da pasta `frontend` digite o comando `npm start`
 
+## Como criar componentes
+
+Para criar um componente no Angular, você precisa dar o comando ng generate component nome_do_componente ou ng g c nome_do_componente.
+
 
 
