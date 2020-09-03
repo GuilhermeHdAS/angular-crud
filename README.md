@@ -16,13 +16,24 @@ Feito em JSON server
 
 ## Frontend
 
+Utilizando Angular 9, para criar um proojeto Angular você deve dar o comando:
+
+* `ng new nome_do_seu_projeto` (Cria um novo projeto em Angular)
+* Para criar um componente no Angular, você precisa dar o comando `ng generate component nome_do_componente` ou `ng g c nome_do_componente`.
+
 ## Instalação
 
 Na pasta `backend` digite o comando:
 
 `npm install`
 
-Dessa forma ele instalará todas as dependências necessárias para o projeto.
+Dessa forma ele instalará todas as dependências necessárias para o projeto na parte do back-end (onde estão meus dados).
+
+Na pasta `frontend` digite o comando:
+
+`npm install`
+
+Dessa forma ele instalará todas as dependências necessárias para o projeto na parte visual do projeto (front-end).
 
 ## Como rodar o projeto
 
@@ -38,9 +49,6 @@ Para verificar os dados da API, acesse o link: http://localhost:3001/products
 
 Para iniciar minha App, dentro da pasta `frontend` digite o comando `npm start`
 
-## Como criar componentes
-
-Para criar um componente no Angular, você precisa dar o comando `ng generate component nome_do_componente` ou `ng g c nome_do_componente`.
 
 
 
