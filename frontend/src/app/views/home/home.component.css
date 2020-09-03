@@ -1,0 +1,34 @@
+.home {
+    margin-bottom: 15px;
+}
+
+.home .title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+.sub-home {
+    width: 46.5%;
+    float: left;
+}
+
+.sub-home .title {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.sub-home .subtitle {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+#card-right {
+    margin-left: 15px;
+}
